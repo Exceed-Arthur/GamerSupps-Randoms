@@ -1,0 +1,85 @@
+2. Fetch Prizes:
+<li class="prize-item ">
+    <div class="rarity-item-body rarity-item rarity-not-set" style="background-color: #000000;">
+        <span class="rarity-item-name">test</span>
+    </div>
+</li><li class="prize-item ">
+    <div class="rarity-item-body rarity-item rarity-not-set" style="background-color: #000000;">
+        <span class="rarity-item-name">DELETION TEST</span>
+    </div>
+</li><li class="prize-item ">
+    <div class="rarity-item-body rarity-item rarity-not-set" style="background-color: #000000;">
+        <span class="rarity-item-name">Free Samples</span>
+    </div>
+</li><li class="prize-item ">
+    <div class="rarity-item-body rarity-item rarity-not-set" style="background-color: #000000;">
+        <span class="rarity-item-name">20% off your order</span>
+    </div>
+</li><li class="prize-item ">
+    <div class="rarity-item-body rarity-item" style="background-color: #2b6f2bbf;">
+        <span class="rarity-item-name">Plus 5 other possible prizes</span>
+    </div>
+</li>
+
+2. Fetch Prizes:
+<li class="prize-item ">
+    <div class="rarity-item-body rarity-item rarity-not-set" style="background-color: #000000;">
+        <span class="rarity-item-name">test</span>
+    </div>
+</li><li class="prize-item ">
+    <div class="rarity-item-body rarity-item rarity-not-set" style="background-color: #000000;">
+        <span class="rarity-item-name">DELETION TEST</span>
+    </div>
+</li><li class="prize-item ">
+    <div class="rarity-item-body rarity-item rarity-not-set" style="background-color: #000000;">
+        <span class="rarity-item-name">Free Samples</span>
+    </div>
+</li><li class="prize-item ">
+    <div class="rarity-item-body rarity-item rarity-not-set" style="background-color: #000000;">
+        <span class="rarity-item-name">20% off your order</span>
+    </div>
+</li><li class="prize-item ">
+    <div class="rarity-item-body rarity-item" style="background-color: #2b6f2bbf;">
+        <span class="rarity-item-name">Plus 5 other possible prizes</span>
+    </div>
+</li>
+
+2. Fetch Prizes:
+<li class="prize-item ">
+    <div class="rarity-item-body rarity-item rarity-not-set" style="background-color: #000000;">
+        <span class="rarity-item-name">test</span>
+    </div>
+</li><li class="prize-item ">
+    <div class="rarity-item-body rarity-item rarity-not-set" style="background-color: #000000;">
+        <span class="rarity-item-name">DELETION TEST</span>
+    </div>
+</li><li class="prize-item ">
+    <div class="rarity-item-body rarity-item rarity-not-set" style="background-color: #000000;">
+        <span class="rarity-item-name">Free Samples</span>
+    </div>
+</li><li class="prize-item ">
+    <div class="rarity-item-body rarity-item rarity-not-set" style="background-color: #000000;">
+        <span class="rarity-item-name">20% off your order</span>
+    </div>
+</li><li class="prize-item ">
+    <div class="rarity-item-body rarity-item" style="background-color: #2b6f2bbf;">
+        <span class="rarity-item-name">Plus 5 other possible prizes</span>
+    </div>
+</li>
+
+1. Check if Player is Allowed to Play:
+{
+  "can_play": false,
+  "logged_in": true,
+  "flag": 0,
+  "message": ""
+}
+
+3. Play Game:
+{
+  "is_win": false,
+  "prize": [],
+  "error": false,
+  "message": "out_of_plays",
+  "can_replay": false
+}
